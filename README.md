@@ -14,7 +14,7 @@ I am very interested in React. I have project experience using React(My most con
 
 - 🌱 I’m currently learning **Atomic design, Storybook**
 
-- 👨‍💻 This is my portfolio [marking](making)
+- 👨‍💻 This is my portfolio [making](making)
 
 - 📝 I regularly write articles on [Blog](https://toby2009.tistory.com/)
 
