@@ -14,9 +14,9 @@ I am very interested in React. I have project experience using React(My most con
 
 - 🌱 I’m currently learning **Atomic design, Storybook**
 
-- 💻 This is my portfolio [site](https://sthyeon.github.io/)
+- 💻 This is my portfolio [site](https://sthyeon.github.io/) - Close
 
-- 👨‍ This is my resume. [site](https://www.notion.so/Working-draft-of-resume-41294343fa9a4fffa64eadccc79451c5)
+- 👨‍ This is my resume. [site]("") - Close
 
 - 📝 I regularly write articles on [Blog](https://toby2009.tistory.com/)
 
