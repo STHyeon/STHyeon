@@ -12,8 +12,6 @@ I am very interested in React. I have project experience using React(My most con
 
 - 🌱 I’m currently learning **Atomic design, Storybook**
 
-- 💻 This is my portfolio [site](https://sthyeon.github.io/) - Close
-
 - 📝 I regularly write articles on [Blog](https://toby2009.tistory.com/)
 
 <h3 align="left">:hammer: Languages and Tools:</h3>
